@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <array name="planetes">
+        <item>Mercure</item>
+        <item>Vénus</item>
+        <item>Terre</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturne</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </array>
+</resources>
